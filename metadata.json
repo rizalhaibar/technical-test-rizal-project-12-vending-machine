@@ -1,0 +1,6 @@
+{
+  "name": "Project 12 - Vending Machine",
+  "description": "Object-oriented Vending Machine simulator built with React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
